@@ -36,13 +36,6 @@ alias bg="git branch"
 alias gs="git status"
 alias gco="git checkout"
 
-# bash
-alias vb="vim //Users/student/.bash_profile"
-alias sb="source //Users/student/.bash_profile"
-alias vbr="vim //Users/student/.bashrc"
-alias sbr="source //Users/student/.bashrc"
-alias vv="cd //Users/student/energy/study/vue"
-
 alias code="code ./"
 alias fw="find ./ -type f -print | xargs grep $@"
 alias go='open /Applications/Google\ Chrome.app/'
